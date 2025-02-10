@@ -3,3 +3,4 @@ Desarrollo del proyecto final del curso IE0217 de la Universidad de Costa Rica
 
 # Integrantes
 - Adrian Cordero Mendez, B82305
+- Jose Avila, C10776
